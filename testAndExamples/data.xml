@@ -1,0 +1,9 @@
+<root>
+	<responses>
+		<resp>Hi</resp>how is it flowin my dude
+	</responses>
+	<commands>
+		<resp>Fetch me news</resp>fetchNews()
+		<resp>Get some coffee</resp>fetchCoffee()
+	</commands>
+</root>
