@@ -26,7 +26,7 @@ class start:
 				print(self.resp)
 			else:
 				
-				print('Command and responses')
+				print('Command and responses not found')
 class brain:
 	def __init__(self):
 		self.xs = 1
