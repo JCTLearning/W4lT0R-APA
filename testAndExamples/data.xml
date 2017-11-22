@@ -1,9 +1,12 @@
 <root>
 	<responses>
-		<resp>Hi</resp>how is it flowin my dude
+		<resp input="Hi" resps="how is it flowin my dude" />
+		<resp input="How are you?" resps ="Quite dandy! Just relaxing."/>
+		<resp input="Who made you?" resps="Kek some nerd." /> 
+		<resp input="Are you white" resps="No im a dash of caramel coco." /> 
+		
 	</responses>
 	<commands>
-		<resp>Fetch me news</resp>fetchNews()
-		<resp>Get some coffee</resp>fetchCoffee()
+		<command input = "test()" comm = "test()"/>
 	</commands>
 </root>
