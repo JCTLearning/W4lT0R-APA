@@ -29,3 +29,4 @@ for iter in range(10000):
     syn0 += n.dot(l0.T,l1d)
 print("Output after synaptic training:")
 print(l1)
+#The weights never change, this signifies the actual connection of the neural networks nodes.
